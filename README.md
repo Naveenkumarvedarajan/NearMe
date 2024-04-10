@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 30.03.24
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -158,17 +158,12 @@ interested, I can provide information about any parks or wildlife sanctuaries in
 </body>
 </html>
 ## OUTPUT
-
-![alt text](<Screenshot 2024-04-10 093845-1.png>) 
-![alt text](<Screenshot 2024-04-10 093859-1.png>) 
-![alt text](<Screenshot 2024-04-10 093949-1.png>) 
+![alt text](<Screenshot 2024-04-10 093845-1.png>)
+![alt text](<Screenshot 2024-04-10 093859-1.png>)
+![alt text](<Screenshot 2024-04-10 093949.png>)
 ![alt text](<Screenshot 2024-04-10 094136-1.png>)
 ![alt text](<Screenshot 2024-04-10 094147-1.png>)
-![alt text](<Screenshot 2024-04-10 094255-1.png>)
-
-
-
-
+![alt text](<Screenshot 2024-04-10 094255.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
